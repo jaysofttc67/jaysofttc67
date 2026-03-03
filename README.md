@@ -4,7 +4,7 @@ I’m transitioning into cybersecurity with a focus on SOC / Security Operations
 
 - 📍 North Royalton, OH
 - 🎯 Target roles: SOC Analyst I / Junior Cybersecurity Analyst
-- 📚 CompTIA Security+ (SY0-701) — Exam scheduled Jan 21, 2026
+- 📚 CompTIA Security+ (SY0-701) — Exam scheduled march 7 2026
 - 🧪 Labs: Wireshark, VirtualBox, Sysinternals
 
 ### Current focus
